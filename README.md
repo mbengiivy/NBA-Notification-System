@@ -1,9 +1,9 @@
 # NBA-Notification-System
-##Description:
+## Description:
 THis is a system that sends an alert via sms or text(according to preference) to a user over the NBA game stats using Amazon SNS.
-It implements the use of ##AWS Lambda, AWS Simple Notification Service, Amazon EventBridge and Amazon IAM 
+It implements the use of ## AWS Lambda, AWS Simple Notification Service, Amazon EventBridge and Amazon IAM 
 
-##Prerequisites:
+## Prerequisites:
 1. A functional AWS account
 2. An API key from sportsdata.io(IT'S FREE!)
 
