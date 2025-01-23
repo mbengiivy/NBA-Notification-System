@@ -21,3 +21,5 @@ The data is sent to the subscribed users via SNS
 
 The task is to set up the system to send notifications on the game stats. I took the challenge to upgrade my code to not only send game notifications but also send stadiums available as well. 
 I also got the chance to learn the AWS services more and interact with different settings eg. roles and policies. 
+
+NB. You must set the environment variables(NBA_API_KEY and SNS_TOPIC_ARN)in the configurations bar in lambda
