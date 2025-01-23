@@ -8,7 +8,7 @@ It implements the use of the following: AWS Lambda, AWS Simple Notification Serv
 2. An API key from sportsdata.io(IT'S FREE!)
    
 ## Structure
-![Proj structure](https://github.com/mbengiivy/NBA-Notification-System/blob/main/30a80021-58d5-4177-bcd1-0530f4246a1a.jpg)
+![Proj structure](https://github.com/mbengiivy/NBA-Notification-System/blob/main/WhatsApp%20Image%202025-01-23%20at%2013.25.23.jpeg)
 
 ## Worflow
 The set time for the eventbridge rule sends a trigger to the lambda function.
